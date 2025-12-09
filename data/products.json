@@ -1,0 +1,104 @@
+[
+ {
+  "id": "fling-polo-premium",
+  "slug": "fling-polo-premium",
+  "name": "Fling Polo Premium",
+  "collection": "polo",
+  "image": "/assets/Products/Fling/Red/red-1.png",
+  "folder": "Fling",
+  "colors": [
+    "Red",
+    "White",
+    "Blue",
+    "Cream-Red",
+    "SkyBlue-White",
+    "Black-Plain",
+    "Electric-Green-White",
+    "Navy",
+    "Grey",
+    "Indian-Blue-Black",
+    "White-Plain",
+    "Navy-Plain",
+    "Green-white",
+    "Grey-Black",
+    "Maroon",
+    "L-Green-White",
+    "Tourtoise-blue",
+    "White-Black",
+    "Red-Black",
+    "Black-Yellow"
+  ]
+},
+
+{
+  "id": "hayati-polo-premium",
+  "slug": "hayati-polo-premium",
+  "name": "Hayati Polo Premium",
+  "collection": "polo",
+  "image": "/assets/Products/Hayati Premium Polo/Black/Black-1.png",
+  "folder": "Hayati Premium Polo",
+  "colors": [
+    "Black",
+    "Carbon-Grey-Milange",
+    "Charcoal-Grey",
+    "Habour-Blue",
+    "Ice-Green",
+    "IMPERIAL BLUE",
+    "MAROON",
+    "Mustard-Yellow",
+    "Navy",
+    "Olive-Green",
+    "Pine-Green",
+    "Rama-Blue",
+    "Sky-Blue",
+    "Strong-Blue",
+    "White",
+    "Yellow"
+  ]
+},
+  {
+    "id": "mexmy-polo",
+    "slug": "mexmy-polo",
+    "name": "Mexmy Polo T-Shirts",
+    "collection": "polo",
+    "image": "/assets/Products/Mexmy/Black/Black-1.png"
+  },
+  {
+    "id": "axroo-cotton-polo",
+    "slug": "axroo-cotton-polo",
+    "name": "Axroo Cotton Polo",
+    "collection": "polo",
+    "image": "/assets/Products/AXROO COTTON POLO/Black/Black-1.png"
+  },
+
+  {
+    "id": "muskox-premium-hoody",
+    "slug": "muskox-premium-hoody",
+    "name": "Muskox Premium Hoody",
+    "collection": "hoodies",
+    "image": "/assets/Products/Muskox Premium Hoody/Black-with-Zipper/Black-with-Zipperr-1.png"
+  },
+
+  {
+    "id": "hayati-160gsm",
+    "slug": "hayati-160gsm",
+    "name": "Hayati 160GSM",
+    "collection": "round-neck",
+    "image": "/assets/Products/Hayati 160GMS/Black/Black-1.png"
+  },
+  {
+    "id": "hayati-180gsm",
+    "slug": "hayati-180gsm",
+    "name": "Hayati Premium 180GSM",
+    "collection": "round-neck",
+    "image": "/assets/Products/Hayati Premium 180GMS/Black/Black-1.png"
+  },
+
+  {
+    "id": "sample-set",
+    "slug": "sample-set",
+    "name": "Sample Products Set",
+    "collection": "sample-set",
+    "image": "/Images/sample-set.jpg"
+  }
+]

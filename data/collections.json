@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "polo",
+    "name": "Polo T-Shirts",
+    "description": "Premium polo T-shirts made from high-quality fabric.",
+    "banner": "/assets/Products/Fling/L-Green-White/L-Green-White-f.png"
+  },
+  {
+    "slug": "hoodies",
+    "name": "Hoodies",
+    "description": "Comfortable winter hoodies with premium stitching.",
+    "banner": "/Images/hoodies-banner.jpg"
+  },
+  {
+    "slug": "round-neck",
+    "name": "Round Neck T-Shirts",
+    "description": " Soft and stylish round-neck blank T-shirts.",
+    "banner": "/Images/roundneck-banner.jpg"
+  },
+  {
+    "slug": "sample-set",
+    "name": "Sample Products Set",
+    "description": "Order sample products before bulk purchase.",
+    "banner": "/Images/sample-banner.jpg"
+  }
+]
